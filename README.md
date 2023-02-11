@@ -1,6 +1,4 @@
 
-# Haikus for Codespaces
+# EEGMANYLABS
 
-This is a quick node project template for demoing Codespaces. It is based on the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
-
-Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) for a tour of using Codespaces with this repo.
+Contains code contributions to EEGMANYLABS - Amodio et al. (2007) and Amodio et al. (2008)
