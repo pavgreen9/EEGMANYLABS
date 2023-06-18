@@ -1,0 +1,19 @@
+bin 1
+Incorrect Go stimulus
+.{256}
+
+bin 2
+Correct NoGo stimulus
+.{512}
+
+bin 3
+Correct Go response
+.{768}
+
+bin 4
+Incorrect NoGo response
+.{1024}
+
+
+
+
